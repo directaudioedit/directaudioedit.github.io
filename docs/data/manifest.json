@@ -1,0 +1,125 @@
+{
+  "samples": [
+    {
+      "source_audio_name": "103585.wav",
+      "source_prompt": "Rain pouring on a hard surface as a vehicle drives by while water splashes in the background.",
+      "target_prompt": "Rain pouring on a hard surface as a train passes by on tracks while water splashes in the background.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "106468.wav",
+      "source_prompt": "Ducks quacking and birds tweeting as a crowd of people talk while a rooster crows in the background.",
+      "target_prompt": "Ducks quacking and birds tweeting as children laugh while a rooster crows in the background.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "105843.wav",
+      "source_prompt": "A vehicle is running followed by the horn honking.",
+      "target_prompt": "A motorcycle engine revs and accelerates, followed by the horn honking.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "106690.wav",
+      "source_prompt": "A woman talking followed by a bird whistling then a person whistling.",
+      "target_prompt": "A man laughing followed by a bird whistling then a person whistling.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "105790.wav",
+      "source_prompt": "Cats meowing and then wind.",
+      "target_prompt": "Cats meowing and then a violent thunderstorm.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "104667.wav",
+      "source_prompt": "An adult female is speaking in a quiet environment.",
+      "target_prompt": "An adult female is speaking urgently amidst the chatter of a crowded cafe and the clatter of dishes.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "104058.wav",
+      "source_prompt": "An insect buzzing as hollow wood clanks twice followed by a person gulping and a frog croaking proceeded by another insect buzzing and guitar music begins playing.",
+      "target_prompt": "An insect buzzing as hollow wood clanks twice followed by a person gulping and a frog croaking proceeded by another insect buzzing and a soft, slow piano melody begins playing.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "104514.wav",
+      "source_prompt": "A woman speaks while a crowd talks and chuckles.",
+      "target_prompt": "A woman speaks over the distant roar of crashing ocean waves.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "103348.wav",
+      "source_prompt": "A child talking then a man speaking with bird sounds in the background.",
+      "target_prompt": "A child talking then a woman speaking with bird sounds in the background.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "103982.wav",
+      "source_prompt": "A man talking followed by a faucet running.",
+      "target_prompt": "A man talking followed by a shower spray running.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    },
+    {
+      "source_audio_name": "107252.wav",
+      "source_prompt": "A truck engine running followed by a truck horn honking.",
+      "target_prompt": "A truck engine running followed by a train horn honking.",
+      "methods": [
+        "SDEdit",
+        "DDIM-inv",
+        "DDPM-inv",
+        "DirectAudioEdit"
+      ]
+    }
+  ]
+}
